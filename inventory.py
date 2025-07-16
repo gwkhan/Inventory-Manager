@@ -1,3 +1,6 @@
+#inventory manager
+
+
 import csv
 try:
 	with open("inventory.csv","r")as file:
